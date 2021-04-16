@@ -1,4 +1,3 @@
-### TDI Coding Challenge, B.Welborn
 # Exploratory analysis of reddit comments in politically-oriented subreddits
 # First, we perform LDA to identify some topics that might generally characterize such comments
 # Next, we attempt to see whether they are relevant for classification of political ideology (operationalized as subreddit membership)
